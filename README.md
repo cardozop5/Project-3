@@ -15,3 +15,5 @@ Datasets: csv file from the nba database.
 Methods: scrapping nba website with all the stats to retrieve database.
 
 Requirements: Sckit-Learn, machine learning library, tableau and AWS
+
+![](static/images/Capture.PNG)
